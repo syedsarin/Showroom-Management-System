@@ -1,4 +1,5 @@
-![image](https://github.com/syedsarin/Showroom-Management-System/assets/146479866/b49d2655-f864-44c9-8c2e-3e5aeefd61f6)# Showroom-Management-System
+# Showroom-Management-System
+
 Mini Project On OOP Concept
 Overview:
 
