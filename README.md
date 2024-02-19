@@ -1,5 +1,5 @@
-# Showroom-Management-System
-
+![image](https://github.com/syedsarin/Showroom-Management-System/assets/146479866/b49d2655-f864-44c9-8c2e-3e5aeefd61f6)# Showroom-Management-System
+Mini Project On OOP Concept
 Overview:
 
 This Java code implements a simple showroom management system. It allows users to add and retrieve details of showrooms, employees, and cars.
